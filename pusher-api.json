@@ -1,0 +1,26 @@
+{
+  "name": "pusher-api",
+  "title": "Pusher Api",
+  "description": "New Project",
+  "version": "0.1.0",
+  "homepage": "https://github.com/web-notification/pusher-api",
+  "author": {
+    "name": "KimJiTae",
+    "email": "jitae.kim@nhn.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/web-notification/pusher-api.git"
+  },
+  "bugs": "https://github.com/web-notification/pusher-api/issues",
+  "licenses": [
+    {
+      "type": "GPL-2.0",
+      "url": "https://github.com/web-notification/pusher-api/blob/master/LICENSE-GPL-2.0"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}

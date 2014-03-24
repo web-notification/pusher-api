@@ -1,0 +1,23 @@
+{
+  "name": "pusher-api",
+  "version": "0.0.0",
+  "homepage": "https://github.com/web-notification/pusher-api",
+  "authors": [
+    "KimJiTae <jitae.kim@nhn.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "/js/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "qunit": "~1.14.0",
+    "jquery": "~2.1.0",
+    "sinon-qunit": "~1.0.0",
+    "sinon-browser-only": "~1.9.0"
+  }
+}
